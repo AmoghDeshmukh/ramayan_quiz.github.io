@@ -13,7 +13,7 @@ let totalQuestion=questions.length;
 $(function (){
     //timer code start from here
 
-    let totalTime = 60;
+    let totalTime = 600;
     let min= 0;
     let sec=0;
     let counter = 0;
